@@ -1,0 +1,4 @@
+- 👋 Hi, I’m filipity
+- 👀 I’m interested in making a good game
+- 🌱 I’m currently learning csharp
+- 📫 How to reach me on discord: .filip1ty.
